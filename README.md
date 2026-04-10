@@ -98,6 +98,7 @@ This project aims to evaluate whether data-driven methods can support or enhance
 | `/notebooks`  | Data analysis and clustering experiments |
 | `/models`     | K-Means clustering implementation        |
 | `/visuals`    | Cluster visualizations                   |
+| `/Presentation`| final presentation                      |
 | `README.md`   | Project documentation                    |
 
 ---
